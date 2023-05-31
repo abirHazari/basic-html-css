@@ -1,0 +1,3 @@
+git clone -b balcony🚊 https://github.com/iamverysimp1e/dots
+cd dots
+cp -r ./configs/* ~/.config/
